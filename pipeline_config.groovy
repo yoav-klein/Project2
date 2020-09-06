@@ -1,0 +1,5 @@
+
+libraries {
+    cmake
+    sonar
+}
