@@ -1,5 +1,5 @@
 
 libraries {
     cmake
-    sonar
+    klockwork
 }
